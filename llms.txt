@@ -1,0 +1,39 @@
+# Kulinarisk Solutions
+
+> Doradztwo, inwestycje i realizacja w gastronomii. Warszawa, Polska. Od audytu jednej restauracji po komercjalizację całych inwestycji F&B. Pracujemy z restauratorami, deweloperami, funduszami inwestycyjnymi, grupami hotelowymi i sieciami.
+
+Kulinarisk Solutions Sp. z o.o. (NIP 1133136673, KRS 0001110124) to grupa specjalistów prowadzona przez dwoje założycieli: Katarzynę Selentę (koncepty, branding, kadra) i Przemysława Śledziaka (lokale, transakcje, audyty, nadzór budowlany; 20+ lat w gastronomii). Zakresy wykonuje stała sieć partnerów: architekci HoReCa, technolodzy gastronomiczni, firmy budowlane HoReCa, kancelarie prawne, doradcy podatkowi, specjaliści HR.
+
+Kontakt: kontakt@kulinarisk.solutions, +48 513 967 466 (Przemysław Śledziak), +48 602 655 902 (Katarzyna Selenta). Strona: https://kulinarisksolutions.pl
+
+## Usługi
+
+- [Pośrednictwo w obrocie lokalami gastronomicznymi](https://kulinarisksolutions.pl/posrednictwo-lokale-gastronomiczne): Sprzedaż, przejęcie i wynajem lokali gastronomicznych w Warszawie. Cesje umów najmu, sprzedaż ZCP i udziałów, negocjacje z wynajmującym. Prowadzimy proces od wyceny do przekazania kluczy.
+- [Komercjalizacja powierzchni gastronomicznych](https://kulinarisksolutions.pl/komercjalizacja-powierzchni-gastronomicznych): Komercjalizacja powierzchni F&B w inwestycjach: dobór operatorów gastronomicznych, tenant mix, food hall, doradztwo techniczne przed budową. Dla deweloperów, funduszy, grup hotelowych.
+- [Due diligence restauracji i lokalu gastronomicznego](https://kulinarisksolutions.pl/due-diligence-restauracji): Due diligence przed zakupem restauracji lub lokalu gastronomicznego: analiza umowy najmu, stan techniczny, realne wyniki finansowe, ryzyka prawne. Raport z oceną ryzyka przed decyzją.
+- [Adaptacja lokalu gastronomicznego pod klucz](https://kulinarisksolutions.pl/adaptacja-lokalu-pod-klucz): Adaptacja i budowa lokali gastronomicznych pod klucz w Warszawie. Projekt, technologia kuchni, wentylacja, SANEPID, koordynacja ekip HoReCa, odbiory. Jeden wykonawca od stanu deweloperskiego do otwarcia.
+- [Audyt operacyjno-finansowy restauracji](https://kulinarisksolutions.pl/audyt-restauracji): Audyt restauracji: food cost, koszty pracy, organizacja, realny wynik. Symulacja P&L i plan naprawczy. Restrukturyzacja pojedynczych lokali i grup restauracyjnych.
+- [Rekrutacja kadry zarządzającej HoReCa](https://kulinarisksolutions.pl/rekrutacja-horeca): Rekrutacja managerów, dyrektorów operacyjnych, szefów kuchni i barmanów dla restauracji, grup i hoteli. Headhunting z gwarancją na kandydata. Warszawa i cała Polska.
+
+## Dla kogo
+
+- Restauratorzy (jeden lokal): audyt operacyjno-finansowy i symulacja P&L, zmiana menu i food cost, rekrutacja szefa kuchni lub managera, wybór lokalu i analiza umowy najmu przed podpisem, adaptacja lokalu z nadzorem.
+- Deweloperzy, fundusze, grupy hotelowe, sieci: komercjalizacja powierzchni gastronomicznych, przejęcia i sprzedaż lokali, due diligence, dobór i weryfikacja operatorów, adaptacje pod klucz od stanu deweloperskiego do otwarcia, food hall / food court, modele finansowe i ROI.
+
+## Blog
+
+- [Umowa najmu lokalu gastronomicznego — 5 zapisów, które decydują o wszystkim](https://kulinarisksolutions.pl/umowa-najmu-lokalu-gastronomicznego): JDG czy spółka, cesja, kto płaci za fit-out, wakacje czynszowe i stan zwrotu lokalu. Pięć zapisów, które przesądzają, czy Twój biznes będzie kiedyś coś wart.
+- [Jak wybrać lokal pod gastronomię? 5 kluczowych czynników](https://kulinarisksolutions.pl/jak-wybrac-lokal-pod-gastronomie): Lokalizacja to dopiero początek. Sprawdź, na co zwrócić uwagę, żeby uniknąć kosztownych błędów przy wyborze lokalu pod restaurację.
+- [Ile kosztuje otwarcie restauracji w Warszawie?](https://kulinarisksolutions.pl/ile-kosztuje-otwarcie-restauracji): Realny budżet na start — od adaptacji lokalu, przez wyposażenie kuchni, po pierwsze miesiące operacyjne. Rozbijamy koszty na czynniki pierwsze.
+- [Adaptacja lokalu pod gastronomię — od czego zacząć?](https://kulinarisksolutions.pl/adaptacja-lokalu-pod-gastronomie): Wentylacja, separator tłuszczu, SANEPID, odbiory — kompletny przewodnik po procesie adaptacji lokalu gastronomicznego.
+- [Rekrutacja w gastronomii — jak znaleźć i zatrzymać dobry zespół?](https://kulinarisksolutions.pl/rekrutacja-w-gastronomii): Rynek pracownika w gastronomii jest wymagający. Podpowiadamy, jak skutecznie rekrutować i budować lojalny zespół.
+
+## Powiązane
+
+- [Gastro Warsztat](https://gastrowarsztat.pl): narzędzia dla restauratorów (modele P&L, checklisty) przygotowane przez Kulinarisk Solutions.
+- [Kanał YouTube Gastro Warsztat](https://www.youtube.com/@gastrowarsztat): business case'y z projektów.
+
+## Informacje techniczne
+
+- Język: polski. Obszar działania: Warszawa i aglomeracja (lokale, adaptacje); cała Polska (przejęcia, due diligence, komercjalizacja, rekrutacja).
+- Dane strukturalne schema.org (Organization, Service, FAQPage, Article) są osadzone na każdej podstronie.
