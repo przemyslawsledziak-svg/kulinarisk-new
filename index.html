@@ -1,6 +1,17 @@
 <!DOCTYPE html>
 <html lang="pl">
 <head>
+<!-- Google tag (gtag.js) + Consent Mode v2 -->
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  var kChoice=null;try{kChoice=localStorage.getItem('cookies_accepted')}catch(e){}
+  var kOk=kChoice==='all'?'granted':'denied';
+  gtag('consent','default',{ad_storage:kOk,ad_user_data:kOk,ad_personalization:kOk,analytics_storage:kOk,wait_for_update:500});
+  gtag('js', new Date());
+  gtag('config', 'AW-18457220555');
+</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-18457220555"></script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kulinarisk Solutions — doradztwo, inwestycje i realizacja w gastronomii</title>
@@ -388,7 +399,7 @@ const nav=document.getElementById('nav');window.addEventListener('scroll',()=>na
 
 <div class="cookie-banner" id="cookieBanner"><p>Używamy plików cookies, aby zapewnić prawidłowe działanie serwisu i analizować ruch. Szczegóły w <a href="polityka-cookies">Polityce Cookies</a> i <a href="polityka-prywatnosci">Polityce Prywatności</a>.</p><div class="cookie-banner__btns"><button class="cookie-banner__btn cookie-banner__btn--reject" onclick="closeCookies()">Tylko niezbędne</button><button class="cookie-banner__btn cookie-banner__btn--accept" onclick="acceptCookies()">Akceptuję wszystkie</button></div></div>
 <script>
-function acceptCookies(){document.getElementById('cookieBanner').classList.remove('active');try{localStorage.setItem('cookies_accepted','all')}catch(e){}}
+function acceptCookies(){document.getElementById('cookieBanner').classList.remove('active');try{localStorage.setItem('cookies_accepted','all')}catch(e){}try{gtag('consent','update',{ad_storage:'granted',ad_user_data:'granted',ad_personalization:'granted',analytics_storage:'granted'})}catch(e){}}
 function closeCookies(){document.getElementById('cookieBanner').classList.remove('active');try{localStorage.setItem('cookies_accepted','necessary')}catch(e){}}
 try{if(!localStorage.getItem('cookies_accepted')){setTimeout(function(){document.getElementById('cookieBanner').classList.add('active')},1500)}}catch(e){setTimeout(function(){document.getElementById('cookieBanner').classList.add('active')},1500)}
 </script>
